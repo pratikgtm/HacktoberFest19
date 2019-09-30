@@ -2,4 +2,4 @@
 
 Contributors:
 
-1. Ayush Shridhar (ayush-1506)
+1. [Ayush Shridhar](https://github.com/ayush-1506) (@ayush-1506)
