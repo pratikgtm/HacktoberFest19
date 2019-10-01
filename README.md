@@ -7,3 +7,4 @@ Contributors:
 3. Hardik Aggarwal (hardik_kgp)
 4. Shreyansh Kuls (shreyansh27kuls)
 5. Pranav Daruwala (prvdaru)
+6. Pratik Goutam (pratikgtm)
